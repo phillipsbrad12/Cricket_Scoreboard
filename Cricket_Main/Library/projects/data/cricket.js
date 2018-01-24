@@ -41,7 +41,7 @@ function addScore(theNum, thePlayer){
 		if(Nscore > 3){
 			NscoreImg = 3;
 		}
-		swapImage(imageID, "../images/checks" + NscoreImg + ".png");
+		swapImage(imageID, "C:\Users\Admin\Documents\GitHub\Cricket_Scoreboard_Repo\Cricket_Main\Library\images\checks" + NscoreImg + ".png");
 	}
 }
 
